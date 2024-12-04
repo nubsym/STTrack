@@ -1,7 +1,7 @@
 # STTRACK: Joint Spatio-Temporal Modeling for Visual Tracking
 The official implementation of STTRACK(https://www.sciencedirect.com/science/article/pii/S0950705123009565).
 
-![STARK_Framework](tracking/framework.pdf)
+![STARK_Framework](tracking/framework.jpg)
 
 ## Brief Introduction
 
